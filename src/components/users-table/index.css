@@ -1,0 +1,9 @@
+.users-table-container {
+    width: 100%;
+}
+
+.users-table {
+    width: 70%;
+    margin: auto;
+    border: solid 1px black;
+}   
