@@ -5,5 +5,13 @@
 .users-table {
     width: 70%;
     margin: auto;
+    border: solid 2px black;
+    border-spacing: 0;
+    font-family: 'Calibri';
+    font-weight: 400;
+    font-size: 16px;
+}  
+
+.header-row td{
     border: solid 1px black;
-}   
+}

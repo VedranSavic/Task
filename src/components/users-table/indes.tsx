@@ -7,7 +7,7 @@ const UsersTable = (props: UsersArrayType) => {
     return (
         <div className="users-table-container">
         <table className="users-table">
-            <tr>
+            <tr className="header-row">
                 <td>Name</td>
                 <td>Address</td>
                 <td>Phone</td>

@@ -1,3 +1,5 @@
-.users-table-row {
-    margin: auto;
+.users-table-row td{
+    border: solid 1px black;
+    border-top: solid 2px black;
+    padding: 10px 0px 10px 0px;
 }
