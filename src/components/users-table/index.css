@@ -15,3 +15,16 @@
 .header-row td{
     border: solid 1px black;
 }
+
+.users-table-container button {
+    margin: 15px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 10px;
+    background-color: transparent;
+}
+
+.users-table-container button:hover {
+    background-color: aliceblue;
+    cursor: pointer;
+}

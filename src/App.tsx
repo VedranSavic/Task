@@ -2,7 +2,8 @@ import React, { useEffect, useState } from 'react';
 import './App.css';
 import SearchBar from './components/search-bar';
 import UsersTable from './components/users-table/indes';
-import { UserType } from './types/types';
+import { TableRowData, UserType } from './types/types';
+import { Column } from 'react-table';
 
 function App() {
   const [users, setUsers] = useState([]);
